@@ -1,0 +1,70 @@
+# Environment files (CRITICAL - never commit secrets)
+.env
+.env.local
+.env.*.local
+
+# Database files (contain scan history)
+*.db
+vaulthound.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets and keys
+secrets.txt
+*.key
+*.pem
+*.crt
+*.p12
+*.jks
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets detection (local baseline)
+.baseline
+.secrets.baseline

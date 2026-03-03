@@ -1,0 +1,13 @@
+[server]
+port = 8501
+headless = true
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+
+[runner]
+magicEnabled = true
