@@ -18,7 +18,7 @@
 
 <br/>
 
-**[🚀 Live Demo](https://vaulthound.streamlit.app)** · **[📖 Documentation](#how-it-works)** · **[🛡️ Security](#security-hardening)** · **[🐛 Report Bug](https://github.com/yourusername/vaulthound/issues)**
+**[📖 Documentation](#how-it-works)** · **[🛡️ Security](#security-hardening)**
 
 <br/>
 
@@ -217,7 +217,7 @@ Follow these steps to run VaultHound on your own machine:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vaulthound.git
+git clone https://github.com/AnandSundar/vaulthound.git
 cd vaulthound
 ```
 
@@ -434,11 +434,10 @@ MIT License — feel free to use VaultHound in your projects, commercial or othe
 
 <div align="center">
 
-<p>Built with 🍂 and ☕ by <a href="https://github.com/yourusername">Your Name</a></p>
+<p>Built with 🍂 and ☕ by <a href="https://github.com/AnandSundar">Anand Sundar</a></p>
 <p>
-  <a href="https://vaulthound.streamlit.app">🚀 Live Demo</a> ·
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> ·
-  <a href="https://github.com/yourusername/vaulthound">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/anandsundar96">💼 LinkedIn</a> ·
+  <a href="https://github.com/AnandSundar/vaulthound">🐙 GitHub</a>
 </p>
 
 <br/>
