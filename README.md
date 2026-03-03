@@ -178,13 +178,17 @@ Modern AI agents can be attacked, tricked, or manipulated — just like regular 
 <div align="center">
 
 ### 🔍 Scan Tab — Watch the Agent Work in Real Time
-<img src="screenshots/scan_tab.png" width="80%" alt="VaultHound Scan Tab" />
+
+<img width="1585" height="907" alt="image" src="https://github.com/user-attachments/assets/584fc1c6-1613-40b5-8681-ed913e967b8f" />
+
 <p><i>Enter any GitHub URL and watch each AI agent step execute live. Every finding appears instantly in the results table.</i></p>
 
 <br/>
 
 ### 📊 Dashboard — Your Risk At a Glance  
-<img src="screenshots/dashboard.png" width="80%" alt="VaultHound Dashboard" />
+
+<img width="1587" height="920" alt="image" src="https://github.com/user-attachments/assets/fb439c79-c994-4b3b-99b8-2f6599b42a3b" />
+
 <p><i>Interactive Plotly charts show finding distribution, risk scores by file, and an overall danger gauge from 0–10.</i></p>
 
 <br/>
