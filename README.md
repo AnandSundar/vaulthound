@@ -1,15 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=42&duration=3000&pause=1000&color=E07B39&center=true&vCenter=true&width=800&height=80&lines=VaultHound+🐾;Agentic+AI+Secrets+%26+Credential+Hunter;Find+Leaks+Before+Hackers+Do" alt="VaultHound Typing SVG" />
-
 <br/>
-
-
-
-
-
-
-
 
 
 <br/>
@@ -192,16 +183,6 @@ Modern AI agents can be attacked, tricked, or manipulated — just like regular 
 <p><i>Interactive Plotly charts show finding distribution, risk scores by file, and an overall danger gauge from 0–10.</i></p>
 
 <br/>
-
-### 🛡️ Security Posture Tab — OWASP Compliance Live View
-<img src="screenshots/security_posture.png" width="80%" alt="Security Posture Tab" />
-<p><i>Real-time view of all 10 OWASP Agentic AI protections — shows which fired during the current scan.</i></p>
-
-<br/>
-
-### 📋 Report Tab — Export Ready Output
-<img src="screenshots/report_tab.png" width="80%" alt="Report Tab" />
-<p><i>Download your full findings as JSON (for tools) or Markdown (for humans). One click to share with your security team.</i></p>
 
 </div>
 
